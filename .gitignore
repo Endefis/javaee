@@ -8,7 +8,9 @@ someOtherfoler/
 
 # Java #
 bin/
-tmp/logs/
+target/
+tmp/
+logs/
 log/
 .class
 .jar
