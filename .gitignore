@@ -2,6 +2,19 @@
 node_modules/
 someOtherfoler/
 
+# Eclipse #
+.settings
+.classpath
+
+# Java #
+bin/
+tmp/logs/
+log/
+.class
+.jar
+.war
+.log
+
 
 # Compiled source #
 ###################
