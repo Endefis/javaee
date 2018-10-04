@@ -1,1 +1,1 @@
-Napisz progroam hello world
+Napisz program hello world
